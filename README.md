@@ -1,0 +1,2 @@
+# mini
+ejercicio3
